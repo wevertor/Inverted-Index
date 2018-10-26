@@ -1,4 +1,4 @@
-[![GitHub stars](https://img.shields.io/github/stars/arthurgsf/Automata-Conversor.svg)](https://github.com/arthurgsf/Automata-Conversor/stargazers)
+[![GitHub stars](https://img.shields.io/github/stars/wevertor/Inverted-Index.svg)](https://github.com/wevertor/Inverted-Index/stargazers)
 # Inverted Index
 
 Uma estrutura de dados muito utilizada em motores de busca de texto. É capaz de armazenar as ocorrências de cada palavra em múltiplos arquivos e retornar o arquivo mais relevante dada uma busca feita por n palavras.
